@@ -17,8 +17,11 @@ HUD fonts and colors
 ## References
 Exercise 03a, 03b, 03c, 03d
 Juice it or lose it — a talk by Martin Jonasson & Petri Purho
+
 Puzzle Pack 2, provided by kenney.nl
+
 Background Elements Redux, provided by kenney.nl
+
 Open Color open source color scheme
 League Gothic Typeface
 Orbitron Typeface
