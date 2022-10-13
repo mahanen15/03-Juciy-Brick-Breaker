@@ -1,25 +1,3 @@
-<<<<<<< HEAD
-# Brick-Breaker
-
-A starting place for Project 03
-
-
-```
-# Project Name
-Context and date
-
-Description
-
-## Implementation
-Which features you included
-
-## References
-
-## Future Development
-
-## Created by
-```
-=======
 # Project Name
 Project 3 Juciy brick breaker
 
@@ -54,4 +32,3 @@ None
 
 ## Created by
 Max Hanen
->>>>>>> a12f95a0f2d45bc2b150467bc5bd01f01423d1fc
