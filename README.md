@@ -23,11 +23,14 @@ Puzzle Pack 2, provided by kenney.nl
 Background Elements Redux, provided by kenney.nl
 
 Open Color open source color scheme
+
 League Gothic Typeface
+
 Orbitron Typeface
+
 Shaders:
-Fire Effect by Tsar333
-Fireworks by Tsar333
+Fire Effect by Tsar333,
+Fireworks by Tsar333,
 2D Procedural Water by flytrap
 
 ## Future Development
